@@ -20,6 +20,8 @@
     "node-fetch": "^2.6.0",
     "node-libcurl": "^3.0.0",
     "puppeteer-extra-plugin-stealth": "^2.11.1",
-    "shelljs": "^0.8.5"
+    "shelljs": "^0.8.5",
+     "converter-money-indonesia": "^1.0.6",
+      "convert-money": "^1.0.3",
   }
 }
